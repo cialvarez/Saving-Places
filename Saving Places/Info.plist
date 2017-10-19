@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>Test</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Test</string>
 </dict>
 </plist>
